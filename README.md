@@ -1,5 +1,5 @@
 # Stack Underflow | Stack Overflow Clone         
-            
+               
 A full-stack **Q&A site** inspired by Stack Overflow. Built with the **MERN stack** and **GraphQL**, featuring authentication, posting, voting, comments, sorting, search, pagination, and more — with a modern UI and responsive design.
 
 ## Tech Stack     
